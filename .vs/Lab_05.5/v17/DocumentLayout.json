@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\Student\\Lab_05.5\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5FEB5954-DB02-3A4F-A1E7-36916034AE76}|UnitTest6\\UnitTest6.vcxproj|C:\\Users\\hp\\Desktop\\Student\\Lab_05.5\\UnitTest6\\UnitTest6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FEB5954-DB02-3A4F-A1E7-36916034AE76}|UnitTest6\\UnitTest6.vcxproj|solutionrelative:UnitTest6\\UnitTest6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39B39117-09F8-49B2-A32A-9CA3B87EB509}|Lab_05.5\\Lab_05.5.vcxproj|C:\\Users\\hp\\Desktop\\Student\\Lab_05.5\\Lab_05.5\\Lab_05.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{39B39117-09F8-49B2-A32A-9CA3B87EB509}|Lab_05.5\\Lab_05.5.vcxproj|solutionrelative:Lab_05.5\\Lab_05.5.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest6.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Student\\Lab_05.5\\UnitTest6\\UnitTest6.cpp",
+              "RelativeDocumentMoniker": "UnitTest6\\UnitTest6.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\Student\\Lab_05.5\\UnitTest6\\UnitTest6.cpp",
+              "RelativeToolTip": "UnitTest6\\UnitTest6.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-19T11:22:41.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Lab_05.5.cpp",
               "DocumentMoniker": "C:\\Users\\hp\\Desktop\\Student\\Lab_05.5\\Lab_05.5\\Lab_05.5.cpp",
               "RelativeDocumentMoniker": "Lab_05.5\\Lab_05.5.cpp",
               "ToolTip": "C:\\Users\\hp\\Desktop\\Student\\Lab_05.5\\Lab_05.5\\Lab_05.5.cpp",
               "RelativeToolTip": "Lab_05.5\\Lab_05.5.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-10-19T06:23:58.824Z",
               "EditorCaption": ""
